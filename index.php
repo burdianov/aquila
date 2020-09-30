@@ -5,20 +5,15 @@
  * 
  * @package Aquila
  */
+
+get_header();
+
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
+<div class="content">
+  <h1>content</h1>
+</div>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Wordpress Theme</title>
-</head>
+<?php
 
-<body>
-
-</body>
-
-</html>
+get_footer();
