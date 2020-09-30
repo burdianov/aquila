@@ -1,6 +1,6 @@
 <?php
 
-namespace Aquila_Theme\Inc\Traits;
+namespace AQUILA_THEME\Inc\Traits;
 
 trait Singleton
 {
